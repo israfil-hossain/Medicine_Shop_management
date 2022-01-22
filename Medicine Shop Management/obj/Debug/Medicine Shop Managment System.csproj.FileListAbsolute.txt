@@ -1,0 +1,20 @@
+C:\Users\israf\source\repos\Medicine Shop Managment System\bin\Debug\Medicine Shop Managment System.exe.config
+C:\Users\israf\source\repos\Medicine Shop Managment System\bin\Debug\Medicine Shop Managment System.exe
+C:\Users\israf\source\repos\Medicine Shop Managment System\bin\Debug\Medicine Shop Managment System.pdb
+C:\Users\israf\source\repos\Medicine Shop Managment System\bin\Debug\XanderUI.dll
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.csprojAssemblyReference.cache
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Employee.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Properties.Resources.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.csproj.GenerateResource.cache
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.csproj.CoreCompileInputs.cache
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.csproj.CopyComplete
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.exe
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine Shop Managment System.pdb
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Billing_system.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Search_employee.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Employ_Forms.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Manager_Forms.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Users_Forms.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.add_medicine.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.login.resources
+C:\Users\israf\source\repos\Medicine Shop Managment System\obj\Debug\Medicine_Shop_Managment_System.Registration.resources
